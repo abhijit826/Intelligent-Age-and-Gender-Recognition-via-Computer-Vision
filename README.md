@@ -4,12 +4,7 @@
 
 [<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="download" width="200">](https://www.dropbox.com/sh/43lv4tav0s4tqn9/AACEHVd2QE-YPwc1LxpJOXw-a?dl=1)
 
-## Models
-Download models from
 
-Gender Net : https://www.dropbox.com/s/iyv483wz7ztr9gh/gender_net.caffemodel?dl=0"
-
-Age Net : https://www.dropbox.com/s/xfb20y596869vbb/age_net.caffemodel?dl=0"
 
 ## Run Code
 
